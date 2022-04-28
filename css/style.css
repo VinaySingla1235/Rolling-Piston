@@ -646,6 +646,9 @@ section{
     section{
         padding:2rem;
     }
+    #home{
+        margin:5%;
+    }
 
 }
 
@@ -684,6 +687,9 @@ section{
         display: block;
         font-size: 2rem;
     }
+    #home{
+        margin:5%;
+    }
 
 }
 
@@ -695,6 +701,9 @@ section{
 
     .heading{
         font-size: 3rem;
+    }
+    #home{
+        margin:10%;
     }
 
 }
